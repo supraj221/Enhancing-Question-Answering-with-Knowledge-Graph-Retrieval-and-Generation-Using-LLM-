@@ -1,4 +1,6 @@
 # Enhancing-Question-Answering-with-Knowledge-Graph-Retrieval-and-Generation-Using-LLM
+
+PAPER HAS BEEN PUBLISHED IN IEEEXplore: https://ieeexplore.ieee.org/document/10882212
 # Objective:
 The main objective of the GRAG project was to develop a novel approach that combines the strengths of Knowledge Graphs and Large Language Models (LLMs) to enhance the performance of natural language processing tasks, such as text summarization and question answering, while maintaining efficiency and scalability.
 
